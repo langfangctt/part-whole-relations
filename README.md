@@ -1,4 +1,4 @@
-------------------------------OUR DATASET of PART-WHOLE RELATION--------------------------------
+# A DATASET of PART-WHOLE RELATIONS
 
 There are no datasets available for all fine-grained subtypes of the PART-WHOLE relation so far. WordNet provides some semantic relations, such as synonymy, hypernonymy, and meronymy. From examples of meronymy (or the part-whole relation), part-whole pairs are divided into Part-Of, Member-Of, and Substance-Of sub-categories. Nevertheless, they do not cover the variety of the part-whole relationship.
 
