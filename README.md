@@ -2,13 +2,13 @@
 
 This is the dataset for the paper:
 
-"Van-Thuy Phi, Joan Santoso, Masashi Shimbo and Yuji Matsumoto. Ranking-Based Automatic Seed Selection and Noise Reduction for Weakly Supervised Relation Extraction. Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Short Paper). (to appear)"
+"Van-Thuy Phi, Joan Santoso, Masashi Shimbo and Yuji Matsumoto. *Ranking-Based Automatic Seed Selection and Noise Reduction for Weakly Supervised Relation Extraction*. Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Short Paper). (to appear)"
 
 There are no datasets available for all fine-grained subtypes of the PART-WHOLE relation so far. WordNet provides some semantic relations, such as synonymy, hypernonymy, and meronymy. From examples of meronymy (or the part-whole relation), part-whole pairs are divided into Part-Of, Member-Of, and Substance-Of sub-categories. Nevertheless, they do not cover the variety of the part-whole relationship.
 
 We provide an annotated dataset of part-whole relations as a reliable resource for selecting seed sets. The part-whole relation includes following subtypes:
-1.	Component-Of
-2.	Member-Of
+1.	*Component-Of*
+2.	*Member-Of*
 3.	Portion-Of
 4.	Stuff-Of
 5.	Located-In
