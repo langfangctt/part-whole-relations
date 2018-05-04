@@ -1,6 +1,8 @@
 # A DATASET of PART-WHOLE RELATIONS
 
-This is the dataset for the paper "Van-Thuy Phi, Joan Santoso, Masashi Shimbo and Yuji Matsumoto. Ranking-Based Automatic Seed Selection and Noise Reduction for Weakly Supervised Relation Extraction. Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Short Paper). (to appear)"
+This is the dataset for the paper:
+
+"Van-Thuy Phi, Joan Santoso, Masashi Shimbo and Yuji Matsumoto. Ranking-Based Automatic Seed Selection and Noise Reduction for Weakly Supervised Relation Extraction. Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Short Paper). (to appear)"
 
 There are no datasets available for all fine-grained subtypes of the PART-WHOLE relation so far. WordNet provides some semantic relations, such as synonymy, hypernonymy, and meronymy. From examples of meronymy (or the part-whole relation), part-whole pairs are divided into Part-Of, Member-Of, and Substance-Of sub-categories. Nevertheless, they do not cover the variety of the part-whole relationship.
 
@@ -14,9 +16,7 @@ We provide an annotated dataset of part-whole relations as a reliable resource f
 7.	Phase-Of
 8.	Participates-In
 
-
-
-We use the above part-whole taxonomy as it is well-structured, clearly-presented, and it contains all subtypes in previous ontological studies. 
+We use the above part-whole taxonomy as it is well-structured, clearly-presented, and it contains all subtypes in previous ontological studies (see [Phi and Matsumoto, 2016](http://www.aclweb.org/anthology/Y16-2015) for details).
 
 FORMAT of the annotation file:
 - 1stEntity
