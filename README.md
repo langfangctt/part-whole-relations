@@ -1,6 +1,6 @@
 # A DATASET of PART-WHOLE RELATIONS (MERONYMY)
 
-This is the dataset for the paper:
+This is the dataset for the ACL2018 paper:
 
 "Van-Thuy Phi, Joan Santoso, Masashi Shimbo and Yuji Matsumoto. *Ranking-Based Automatic Seed Selection and Noise Reduction for Weakly Supervised Relation Extraction*. Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Short Paper). (to appear)"
 
