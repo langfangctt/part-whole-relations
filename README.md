@@ -29,3 +29,5 @@ FORMAT of the annotation file:
 - *A source URL* (The paragraph/The full article which contains the relation triple can be obtained from this URL)
 - *Subtype* of the triple
 - *Order*: Part-Whole / Whole-Part.
+
+Please cite my ACL2018 paper whenever the dataset is used.
